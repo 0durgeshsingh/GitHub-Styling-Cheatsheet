@@ -185,9 +185,15 @@ _Horizontal line :_
 
 _Image with alt :_
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+ <img
+   src="http://via.placeholder.com" 
+   width="200" 
+   height="100" />
 
-    Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
+
+    Markup : <img src="http://via.placeholder.com"  width="200" height="100" />
+
 
 Foldable text:
 
